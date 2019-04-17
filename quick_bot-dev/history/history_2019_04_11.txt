@@ -1,0 +1,13 @@
+question: dmm - answer: Your language is not support yet
+question: Chào - answer: Chúng tôi chưa hỗ trợ nội dung bạn hỏi. Vui lòng hỏi câu hỏi khác
+question: Hi - answer: Your language is not support yet
+question: Dịch vụ thanh toán online qua eport - answer: Quý khách hàng vui lòng tải mẫu đăng ký theo link: https://saigonnewport.com.vn/ho-tro-khach-hang/Pages/huong-dan-khai-bao-va-thanh-toan-eport.aspx.
+Có 2 hình thức đăng ký tài khoản:
+1. Tạo tài khoản eport cá nhân: Điền thông tin theo mẫu-> ký tên-> chụp hình hoặc scan bản đăng ký gửi về email: eport.phct@saigonnewport.com.vn và chờ mail phản hồi cấp TK.
+2. Tạo tài khoản doanh nghiệp: Điền thông tin theo mẫu-> ký tên&đóng mộc tròn của công ty-> chụp hình hoặc scan bản đăng ký gửi về email: eport.phct@saigonnewport.com.vn và chờ mail phản hồi cấp TK. 
+Đồng thời bổ sung bản chính trực tiếp hoặc gửi qua đường bưu điện tới địa chỉ: 
+ĐỘI PHÁT HÀNH CHỨNG TỪ - P. KHKD - TCT TCSG
+Địa chỉ:  Lầu 2 – Phòng A200, Cảng Cát Lái, Quận 2, TPHCM
+Điện thoại: 028.7307.3979 - Ext 1985/1905
+Email: eport.phct@saigonnewport.com.vn
+
